@@ -1,0 +1,13 @@
+src
+pkg
+PKGBUILD
+.SRCINFO
+*~
+
+*.zip
+license.rtf
+desktop.ini
+*.dat
+*.xml
+*.[tT][tT][fFcC]
+*.[fF][oO][nN]
